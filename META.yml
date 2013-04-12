@@ -19,5 +19,6 @@ no_index:
     - inc
 requires:
   Net::SNMP: 0
+  Readonly: 0
   Test::MockObject::Extends: 0
-version: 1.01
+version: 1.02

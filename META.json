@@ -33,10 +33,11 @@
       "runtime" : {
          "requires" : {
             "Net::SNMP" : "0",
+            "Readonly" : "0",
             "Test::MockObject::Extends" : "0"
          }
       }
    },
    "release_status" : "stable",
-   "version" : "1.01"
+   "version" : "1.02"
 }
